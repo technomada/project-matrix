@@ -41,7 +41,7 @@
 | Texty Notes | Plain text based organization | | offline| In Progress |
 
 
-Note: many of the projects include the development of support libraries.
+Note: many of the projects include the development of various support libraries.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
