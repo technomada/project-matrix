@@ -32,7 +32,8 @@
 | Panda Player | Browser based video library / player |  | offline | Paused |
 | LinkyIO | Personal Assistant | Alexa, Google Assistant | offline | In Progress |
 | Usernews | Data sharing platform | | usernewsbeta.com | In Progress |
-| Texty Mail | Texted based webmail | Gmail | textyio.com/mail | In Progress |
+| Texty Mail | Text based webmail | Gmail | textyio.com/mail | In Progress |
+| Texty Notes | Plain text based organization | Gmail | offline| In Progress |
 
 
 Note: many of the projects include the development of support libraries.
