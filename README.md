@@ -1,5 +1,3 @@
-A pretty grid of projects I've done.
-
 | Name | Description | Similar | URL | Status |
 |---|---|---|---|---|
 | Sound FX | Sound FX generator |  | offline | Retired.|
