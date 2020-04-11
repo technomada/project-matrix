@@ -9,9 +9,10 @@
 | TempMon | Monitor home temperature |  | offline | Retired |
 | MEC | Multi-User Environment Coordination | AOL | offline | Integrate into future projects |
 | Clients | Client address book | | offline | Retired |
+| Budget | Simple budgeting application | | offline | Retired |
 | CID | Advanced Phone Caller ID event management |  | offline | Retired |
 | HomeAM | Simple home automation (lights/sensors) remote control |  | offline | Retired |
-| VoiceSys | VOIP based phone system | | offline | Retired |
+| VoiceSys | Astrisk VOIP based phone system | | offline | Retired |
 | Vols | Volunteer management | | offline | Retired |
 | PNN | Microblogging | Twitter | offline | Integrate into future projects |
 | Beanball | IRL sport | Dodgeball, Soccer | offline | Paused |
