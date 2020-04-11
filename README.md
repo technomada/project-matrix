@@ -1,6 +1,6 @@
 | Name | Description | Similar | URL | Status |
 |---|---|---|---|---|
-| Sound FX | Sound FX generator |  | offline | Retired.|
+| Sound FX | Sound FX generator |  | offline | Retired|
 | Sprites | Sprite bitmap editor |  | offline | Retired |
 | Graphics Lib | Game/Graphics library |  | offline | Retired |
 | Epsilon Games | Platformer puzzle game | Load Runner, Jumpman | offline | Retired |
@@ -17,7 +17,7 @@
 | MOW | Meals On Wheels program management | mealsonwheelsmanager.com | offline | Retired |
 | Squatterz | Social content sharing | Facebook, GeoCities | offline | Integrate into future projects|
 | eDoodz | Public doodles on google maps | | offline | Retired |
-| Web App Framework | various iterations | |  | Active |
+| Web App Framework | Various iterations | |  | Active |
 | Free Auto Classifieds | Upload and browse automotive classifieds | Cars.com, Autotrader | offline | Retired |
 | Vehicle Counter | Webcam counting of vehicle traffic | | offline | Retired |
 | Dropshard | Simple browser based file sharing | Firefox Send | offline | Integrate into future projects |
