@@ -4,7 +4,7 @@
 | Sprites | Sprite bitmap editor |  | offline | Retired |
 | Graphics Lib | Game/Graphics library |  | offline | Retired |
 | DAL | Digital Audio Library (DMA) | | offline | Retired |
-|	Sound Nodes | Digital audio node dynamic processing library | | offline | Retired |
+| Sound Nodes | Digital audio node dynamic processing library | | offline | Retired |
 | Epsilon Games | Platformer puzzle game | Load Runner, Jumpman | offline | Retired |
 | SWIM | Sprite transform library | | offline | Retired |
 | Tank Duel | Tracked miner two player game | | offline | Paused |
@@ -36,12 +36,13 @@
 | Dropshard | Simple browser based file sharing | Firefox Send | offline | Integrate into future projects |
 | GeoPOS | Live positioning share | Google map location sharing | offline | Paused |
 | SerialWeb | Reorder web pages into text and media and links |  | offline | Paused |
-|	Starcatcher | Simple three.js (2D) browser demo game | | offline | Retired |
+| Starcatcher | Simple three.js (2D) browser demo game | | offline | Retired |
 | Desktop | Browser based screen share | | offline | Paused |
+| Cast | One to several video casting | | offline | Paused |
 | Coms | Audio/Video real time communication | Facetime | offline | Paused |
 | IM | Text chat | Signal | offline | Paused |
 | Mic | Micro audio blogging |  | offline | Paused |
-| Distributed Application | Self hosted data | Solid | offline | In Progress |
+| Distributed Application Framework | Self hosted data | Solid | offline | In Progress |
 | Pocket IoT | ESP based pocket device | | offline | In Progress |
 | Panda Player | Browser based video library / player |  | offline | Paused |
 | LinkyIO | Personal Assistant | Alexa, Google Assistant | offline | In Progress |
