@@ -15,6 +15,7 @@
 | Backup | File archiving application | | offline | Retired |
 | MEC | Multi-User Environment Coordination | AOL | offline | Integrate into future projects |
 | Clients | Client address book | | offline | Retired |
+| Conf | Conference management | | offline | Retired |
 | Budget | Simple budgeting application | | offline | Retired |
 | Floored | 3D first person competitive flight game | | offline | Paused |
 | CID | Advanced Phone Caller ID event management |  | offline | Retired |
