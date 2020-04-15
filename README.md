@@ -46,7 +46,7 @@
 | Distributed Application Framework | Self hosted data | Solid | offline | In Progress |
 | Pocket IoT | ESP based pocket device | | offline | In Progress |
 | Panda Player | Browser based video library / player |  | offline | Paused |
-| LinkyIO | Personal Assistant | Alexa, Google Assistant | offline | In Progress |
+| LinkyIO | Personal assistant | Alexa, Google Assistant | offline | In Progress |
 | Usernews | Data sharing platform | | usernewsbeta.com | In Progress |
 | Texty Mail | Text based webmail | Gmail | textyio.com/mail | In Progress |
 | Texty Notes | Plain text based organization | | offline| In Progress |
