@@ -24,6 +24,7 @@
 | Vols | Volunteer management | | offline | Retired |
 | PNN | Microblogging | Twitter | offline | Integrate into future projects |
 | Beanball | IRL sport | Dodgeball, Soccer | offline | Paused |
+| Kerplunk | Web app framework for PHP | | offline | Retired | 
 | Lifeline | Lifeline program management | lifeline.philips.com | offline | Retired |
 | MinerBall | Two player top view 2D Game | | offline | Paused |
 | HDE | DHT File sharing | BitTorrent | offline | Integrate into future projects |
