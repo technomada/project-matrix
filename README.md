@@ -32,7 +32,7 @@
 | Squatterz | Social content sharing | Facebook, GeoCities | offline | Integrate into future projects|
 | eDoodz | Public doodles on google maps | | offline | Retired |
 | Youtopa | Pixelated 2D sandbox multiplayer game | | offline | Retired |
-| Web App Framework | Various iterations | |  | Active |
+| Element | Simple JS/Node web app framework | github | Active |
 | Free Auto Classifieds | Upload and browse automotive classifieds | Cars.com, Autotrader | offline | Retired |
 | Vehicle Counter | Webcam counting of vehicle traffic | | offline | Retired |
 | Dropshard | Simple browser based file sharing | Firefox Send | offline | Integrate into future projects |
@@ -49,7 +49,9 @@
 | Panda Player | Browser based video library / player |  | offline | Paused |
 | LinkyIO | Personal assistant | Alexa, Google Assistant | offline | In Progress |
 | Usernews | Data sharing platform | | usernewsbeta.com | In Progress |
-| Texty Mail | Text based webmail | Gmail | textyio.com/mail | In Progress |
+| Core | Basic web application series | | github | In Progress |
+| Repertoire | JS based automation | Ansible | local dev | In Progress |
+| Texty Mail | Text based webmail | Gmail | local dev | In Progress |
 | Texty Notes | Plain text based organization | | offline| In Progress |
 
 
